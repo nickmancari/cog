@@ -1,4 +1,6 @@
-![](https://github.com/nickmancari/cog/blob/main/img/Cog_logo.png)
+<p align="center">
+<img src=https://github.com/nickmancari/cog/blob/main/img/Cog_logo.png>
+</p>
 
 <center><h1>Linux Command Runner</h1></center>
 <br>
