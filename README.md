@@ -21,7 +21,7 @@
 ## Quick Example:
 run a command with cog:
 ```
-$ cog command
+$ cog <command>
 ```
 Flags are not necessary. You only need to pass your defined command to cog.
 
