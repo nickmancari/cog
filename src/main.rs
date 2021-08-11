@@ -7,7 +7,6 @@ fn main() {
     let value = arguments.next().expect("Value Not Provided!");
 
     let (m, p) = handler::match_input(&value);
-//    runner::run_command(m.0, m.1)
     runner::run_command(m, p)
 }
 
