@@ -10,5 +10,5 @@ pub fn match_input(value: &str) -> (String, String) {
             return (command.to_string(), parameter.to_string())
         }
     }
-    return ("No Value".to_string(), "Error".to_string())
+    ("No Value".to_string(), "Error".to_string())
 }
