@@ -1,5 +1,4 @@
 <p align="center">
-<img src=https://github.com/nickmancari/cog/blob/main/img/Cog_logo.png>
 </p>
 
 <h1 align='center'>Linux Command Runner</h1>
@@ -10,7 +9,7 @@
 <br>
 
 # A Command Line Tool:
-<p>Cog is a tool to replace folders of one-line bash scripts. You can condense folders of scripts into one cog file and use the Cog tool to run the one-liners instead. A great way to organize common commands and processes.</p>
+<p>Qic is a tool to replace folders of one-line bash scripts. You can condense folders of scripts into one cog file and use the Qic tool to run the one-liners instead. A great way to organize common commands and processes.</p>
 
 <br>
 
@@ -19,9 +18,9 @@
 <br>
 
 ## Quick Example:
-run a command with cog:
+run a command with qic:
 ```
-$ cog <command>
+$ qic <command>
 ```
 Flags are not necessary. You only need to pass your defined command to cog.
 
