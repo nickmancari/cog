@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "cog"
+name = "qic"
 version = "0.1.0"

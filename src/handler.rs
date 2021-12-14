@@ -12,3 +12,9 @@ pub fn match_input(value: &str) -> (String, String) {
     }
     ("No Value".to_string(), "Error".to_string())
 }
+
+pub fn read_db(path: &str) -> String {
+    let contents = std::fs::read_to_string(path)
+        .expect("Database couldn't be found.");
+        return contents
+}
