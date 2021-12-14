@@ -9,7 +9,7 @@
 <br>
 
 # A Command Line Tool:
-<p>Qic is a tool to replace folders of one-line bash scripts. You can condense folders of scripts into one cog file and use the Qic tool to run the one-liners instead. A great way to organize common commands and processes.</p>
+<p>Qic is a tool to replace folders of one-line bash scripts. You can condense folders of scripts into one file and use the Qic tool to run the one-liners instead. A great way to organize common commands and processes.</p>
 
 <br>
 

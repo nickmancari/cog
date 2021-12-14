@@ -1,6 +1,6 @@
 
 pub fn match_input(value: &str) -> (String, String) {
-    let file = std::fs::read_to_string("/usr/local/bin/qic_dir/qic_db").expect("File read failed!");
+    let file = read_db("/usr/local/bin/qic_dir/qic_db");
     for line in file.lines() {
         let mut chunk = line.splitn(3, ':');
         let key = chunk.next().expect("Key Missing!");
